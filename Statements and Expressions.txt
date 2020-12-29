@@ -1,0 +1,21 @@
+Questions and Answers:-
+
+1)Operators may be used in building ___, which compute values.
+Ans)Expressions.
+
+2)Expressions are the core components of ___.
+Ans)Statements
+
+3)Statements may be grouped into ___.
+Ans)Blocks
+
+4)The following code snippet is an example of a ___ expression.
+ 1 * 2 * 3
+Ans)Compound.
+
+5)Statements are roughly equivalent to sentences in natural languages, but instead of ending with a period, a statement 
+ends with a ___.
+Ans)Semicolon
+
+6)A block is a group of zero or more statements between balanced ___ and can be used anywhere a single statement is allowed.
+Ans) Braces
