@@ -1,0 +1,12 @@
+Identify the following kinds of expression statements:
+
+aValue = 8933.234; 
+aValue++; 
+System.out.println("Hello World!");
+Bicycle myBike = new Bicycle(); 
+
+Ans)
+1)Assignment statement
+2)Increment statement
+3)Method Invocation Statement
+4)Object Creation Statement
